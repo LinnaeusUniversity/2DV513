@@ -1,0 +1,13 @@
+You passed the assignment!
+
+ 
+
+A bit more detailed description of queries would have been a bit better. In the logical model, you are not providing us with E/R Diagram but an already database design. Please use some font formatting when you past a code in text such a SQL queries.  
+
+ 
+
+Your video is more than 10 minutes long and you do not have the link to video in the report (I found the link in other files).
+
+ 
+
+Your system does not appear to be interactive at all. The whole idea was to build a useful system. Your code just runs predefined queries without any user input.
